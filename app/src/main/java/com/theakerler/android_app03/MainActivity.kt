@@ -70,7 +70,7 @@ fun PerfilConContacto() {
                     contentScale = ContentScale.Crop
                 )
                 Spacer(modifier = Modifier.height(8.dp))
-                Text("Alexander EP", fontSize = 30.sp, fontWeight = FontWeight.Bold)
+                Text("Luz Cama Quea", fontSize = 30.sp, fontWeight = FontWeight.Bold)
                 Text("Developer Android-Laravel-Django-React", fontSize = 16.sp, fontWeight = FontWeight.Medium)
             }
 
